@@ -13,13 +13,12 @@ with col2:
     st.title("Alex Grk")
     content = """Hello, I`m Alex.
     Nice to see you!
-    How you doing?"""
+    """
     st.info(content)
 
 
 
-content2 = """ Python is a high-level, general-purpose programming language.
-           Its design philosophy emphasizes code readability with the use of significant indentation. 
+content2 = """ There is an app I learned to create on Udemy 
            """
 
 st.write(content2)
