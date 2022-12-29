@@ -18,8 +18,9 @@ with col2:
 
 
 
-content2 = """ Python is a high-level, general-purpose programming language. 
-           Its design philosophy emphasizes code readability with the use of significant indentation. """
+content2 = """ Python is a high-level, general-purpose programming language.
+           Its design philosophy emphasizes code readability with the use of significant indentation. 
+           """
 
 st.write(content2)
 
