@@ -1,4 +1,0 @@
-greet = "hello"
-
-
-print(greet)
